@@ -86,7 +86,6 @@ public class CustomFilterInvocationSecurityMetadataSource
     }
 }
 
-原文出自：www.hangge.com  转载请保留原文链接：https://www.hangge.com/blog/cache/detail_2676.html
 ```
 
 ### 自定义 FilterInvocationSecurityMetadataSource 
